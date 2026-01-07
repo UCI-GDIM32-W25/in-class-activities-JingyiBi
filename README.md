@@ -11,3 +11,5 @@ Hit enter TWICE to create a new line.
 
 
 Remove all placeholder text in order to get full credit for README file formatting.
+Week1
+Make sure you understand all code you have made.
