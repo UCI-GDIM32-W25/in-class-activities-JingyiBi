@@ -14,3 +14,4 @@ Remove all placeholder text in order to get full credit for README file formatti
 Week1
 1,Make sure you understand all code you have made.
 2,Attend office hour.
+3,listen the suggestions of play test report.
