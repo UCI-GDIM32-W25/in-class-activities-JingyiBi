@@ -27,5 +27,5 @@
 ### Activity1
 
 ![WechatIMG475](https://github.com/user-attachments/assets/95794091-a13d-450f-9f7f-6122641291d1)
-
-
+### Activity2
+[MG2 in class activity](https://github.com/UCI-GDIM32-W25/mg2-JingyiBi/commit/51315f98f39b6425bd78173d1d834e28fdb9850e)
