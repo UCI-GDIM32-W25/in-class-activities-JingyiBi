@@ -26,5 +26,6 @@ Week2
 
 Activity1
 
-![WechatIMG475](https://github.com/user-attachments/assets/095cc72d-e69f-499d-afd4-3586c9583794)
+![WechatIMG475](https://github.com/user-attachments/assets/95794091-a13d-450f-9f7f-6122641291d1)
+
 
