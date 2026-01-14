@@ -1,13 +1,13 @@
 # GDIM32 In Class Activities
-Week1
+## Week1
 
-Activity1
+### Activity1
 
 1,Make sure you understand all code you have made.
 2,Attend office hour.
 3,listen the suggestions of play test report.
 
-Activity2
+### Activity2
 
 1,10
 2,2
@@ -18,13 +18,13 @@ Activity2
 7,the transform of Transform.Translate was wrong.
 8,_playerTransform.Translate
 
-Activity3
+###Activity3
 
-https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?tab=t.0
+[MG1 breakdown Google doc] (https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?tab=t.0)
 
-Week2
+## Week2
 
-Activity1
+### Activity1
 
 ![WechatIMG475](https://github.com/user-attachments/assets/95794091-a13d-450f-9f7f-6122641291d1)
 
