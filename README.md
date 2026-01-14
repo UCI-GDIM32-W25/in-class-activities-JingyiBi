@@ -21,3 +21,10 @@ Activity2
 Activity3
 
 https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?tab=t.0
+
+Week2
+
+Activity1
+
+![WechatIMG475](https://github.com/user-attachments/assets/095cc72d-e69f-499d-afd4-3586c9583794)
+
