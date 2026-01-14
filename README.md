@@ -20,7 +20,7 @@
 
 ###Activity3
 
-[MG1 breakdown Google doc] (https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?tab=t.0)
+[MG1 breakdown Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?tab=t.0)
 
 ## Week2
 
