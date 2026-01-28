@@ -39,4 +39,6 @@ Tina Meng  Jingyi Bi
 ## Week4
 ### Activity 0
 Peiyi Xiong
+### Activity 1
+When the game runs, all extra Locator objects are automatically destroyed, leaving only one instance in the scene. This happens because of the Singleton logic in the Awake method: the script checks if a static Instance already exists, and if it does, it calls Destroy(gameObject) on the duplicate to ensure there is only one central "source of truth" for the pigeon reference.
 
