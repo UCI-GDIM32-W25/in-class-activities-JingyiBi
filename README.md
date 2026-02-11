@@ -54,4 +54,4 @@ Imported assets, completed game screen setup, created the game folder, and impor
 Using .gitignore to filter redundant files prevents code overwriting during simultaneous UI and singleton logic development by multiple contributors, while providing a "do-over" for core system iterations through undo and merge functions. The Gizmos tool visualizes complex spatial logic, enabling real-time debugging of NPC interaction ranges, delivery detection zones, and visual paths guiding customers to their homes within scenes—ensuring precise spatial experiences for players in Forest Town. Breakpoint debugging proves invaluable for optimizing MVC architecture and handling polymorphic logic. By setting breakpoints during DeliveryManager state transitions or NPC subclass interactions, we precisely track order flow and tip calculation values, efficiently pinpointing and resolving logical flaws in the delivery process.
 ### Activity2 
 JingyiBi, Peiyi Xiong, Ruixuan Pan
-
+[FP Draft in class](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.wm54rak5tgph)
