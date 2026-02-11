@@ -12,7 +12,7 @@
 1,10
 2,2
 3,When game begin running, the console will print "hello world" again and again.
-4,MonoBehavior。
+4,MonoBehavior.
 5,x=10 is passed into PrintMassage and then x+10, the console print x=10.
 6,the parameters, the code means that 0+10
 7,the transform of Transform.Translate was wrong.
@@ -51,3 +51,7 @@ Imported assets, completed game screen setup, created the game folder, and impor
 
 ## Week6
 ### Activity1
+Using .gitignore to filter redundant files prevents code overwriting during simultaneous UI and singleton logic development by multiple contributors, while providing a "do-over" for core system iterations through undo and merge functions. The Gizmos tool visualizes complex spatial logic, enabling real-time debugging of NPC interaction ranges, delivery detection zones, and visual paths guiding customers to their homes within scenes—ensuring precise spatial experiences for players in Forest Town. Breakpoint debugging proves invaluable for optimizing MVC architecture and handling polymorphic logic. By setting breakpoints during DeliveryManager state transitions or NPC subclass interactions, we precisely track order flow and tip calculation values, efficiently pinpointing and resolving logical flaws in the delivery process.
+### Activity2 
+JingyiBi, Peiyi Xiong, Ruixuan Pan
+
