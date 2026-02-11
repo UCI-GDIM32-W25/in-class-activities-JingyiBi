@@ -48,3 +48,6 @@ When the game runs, all extra Locator objects are automatically destroyed, leavi
 ### Acitivity 3
 [MG4 in class activity](https://github.com/JingyiBi/HW4/commit/945a440466c5a2ca0fd81a22153175d871a617b4)
 Imported assets, completed game screen setup, created the game folder, and imported GitHub materials.
+
+## Week6
+### Activity1
