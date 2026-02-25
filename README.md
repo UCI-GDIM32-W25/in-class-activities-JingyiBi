@@ -60,12 +60,11 @@ JingyiBi, Peiyi Xiong, Ruixuan Pan
 ### Activity1
 Rendering & Playtesting Notes
 Rendering Pipelines
-Definition: A sequence of instructions for how everything in the game is drawn to the screen.
-Technical Details: Pipelines are written in CPU code (C# or C++) and coordinate resources between the CPU and GPU.
-Unity Options:
+A sequence of instructions for how everything in the game is drawn to the screen.
+Technical Details: Pipelines are written in CPU code and coordinate resources between the CPU and GPU.
 Built-in Pipeline: Unity's default, general-purpose pipeline with limited customization.
-URP (Universal Render Pipeline): Optimized for a wide range of platforms and easy to customize.
-HDRP (High Definition Render Pipeline): Used for high-fidelity, cutting-edge graphics on high-end platforms.
+URP: Optimized for a wide range of platforms and easy to customize.
+HDRP: Used for high-fidelity, cutting-edge graphics on high-end platforms.
 Asset Compatibility: Shaders and materials must be made for the specific pipeline you are using; they are not universally compatible
 ### Activity2
 Attendance: JingyiBi, Peiyi Xiong, Ruixuan Pan
