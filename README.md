@@ -74,4 +74,6 @@ The scene is very beautiful and the characters have distinct features. The UI ca
 ### Activity4
 Add collision bodies to all objects to prevent model clashing.
 Working with Mia to find UI bugs.
-
+### Activity5
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
+I added the required objects to the original scene, identified a UI bug, and then sourced the game's BGM and music.
