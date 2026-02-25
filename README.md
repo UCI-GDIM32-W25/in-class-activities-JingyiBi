@@ -55,3 +55,17 @@ Using .gitignore to filter redundant files prevents code overwriting during simu
 ### Activity2 
 JingyiBi, Peiyi Xiong, Ruixuan Pan
 [FP Draft in class](https://docs.google.com/document/d/1xBZf-TNesHDRlNGUnQIIlStqfWb3MOsQMGyXhkQuQ5s/edit?tab=t.0#heading=h.wm54rak5tgph)
+
+## Week8 
+### Activity1
+Rendering & Playtesting Notes
+Rendering Pipelines
+Definition: A sequence of instructions for how everything in the game is drawn to the screen.
+Technical Details: Pipelines are written in CPU code (C# or C++) and coordinate resources between the CPU and GPU.
+Unity Options:
+Built-in Pipeline: Unity's default, general-purpose pipeline with limited customization.
+URP (Universal Render Pipeline): Optimized for a wide range of platforms and easy to customize.
+HDRP (High Definition Render Pipeline): Used for high-fidelity, cutting-edge graphics on high-end platforms.
+Asset Compatibility: Shaders and materials must be made for the specific pipeline you are using; they are not universally compatible
+### Activity2
+Attendance: JingyiBi, Peiyi Xiong, Ruixuan Pan
