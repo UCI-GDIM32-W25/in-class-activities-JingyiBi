@@ -69,3 +69,9 @@ HDRP (High Definition Render Pipeline): Used for high-fidelity, cutting-edge gra
 Asset Compatibility: Shaders and materials must be made for the specific pipeline you are using; they are not universally compatible
 ### Activity2
 Attendance: JingyiBi, Peiyi Xiong, Ruixuan Pan
+### Activity3
+The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
+### Activity4
+Add collision bodies to all objects to prevent model clashing.
+Working with Mia to find UI bugs.
+
