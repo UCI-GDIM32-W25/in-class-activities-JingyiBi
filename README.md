@@ -76,3 +76,16 @@ Working with Mia to find UI bugs.
 ### Activity5
 [Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commits/main/)
 I added the required objects to the original scene, identified a UI bug, and then sourced the game's BGM and music.
+## Week9
+### Activity1
+Scaling well：
+System continues to work efficiently and remain easy to manage as its data or complexity increases.
+### Activity2 
+Attendance: JingyiBi, Peiyi Xiong, Ruixuan Pan
+### Activity3
+Notes: The most important problem is that the camera angle shifts too abruptly, significantly affecting the gameplay experience. UI prompt for clicking the burger isn't clear, so players consistently miss the step of clicking the burger on the table. Similarly, the dialogue prompt for clicking the UI icon isn't clear, so players sometimes ignore it and skip the process. There aren't enough interactions with the items and NPCs. The Dialogue UI isn't so pretty; maybe we can add a mode to beautify it. The camera isn't in the proper position, so the player can't clearly catch the first NPC. 
+### Activity4
+We have completed one out of three planned interactions. One interaction is still unfinished. Our progress is about halfway through the project, which matches our original plan. This suggests that our project scope is realistic and manageable, and we are currently on track.
+### Activity5 
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commit/7778a686f7e180394103bdf3248ca798642263a0) 
+I improved the interaction with customers.
