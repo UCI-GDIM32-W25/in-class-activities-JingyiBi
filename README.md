@@ -89,3 +89,13 @@ We have completed one out of three planned interactions. One interaction is stil
 ### Activity5 
 [Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commit/7778a686f7e180394103bdf3248ca798642263a0) 
 I improved the interaction with customers.
+## Week10
+### Activity1
+Attendance: JingyiBi, Peiyi Xiong, Ruixuan Pan
+### Activity2
+The hamburger's UI isn't clear enough, so players often forget to click on the hamburger on the table. The dialog prompts to click on the UI icons are also not clear, so players sometimes skip this step. You don't interact with items and NPCs enough. The dialogue UI doesn't look good; maybe we could add a mode to make it look better. The conversation is pretty complete.
+### Activity3
+We're currently reworking the dialogue format for our Order Up! project, which is a crucial change that fits perfectly with our project scope of creating a flexible, expandable food delivery game. This change is intentional to build greater scalability into the project, ensuring that we can seamlessly add new features, expand NPC interactions, and integrate more content later on without overcomplicating the core framework.
+### Activity4
+I rewrote a large amount of code and fixed some known bugs.
+[Commit](https://github.com/JingyiBi/GDIM32-Final-AAA/commit/b8a5d6e64a6f2768bf5a2ac55ffb6d7cc337ce15#diff-9f46de84dddc00879da4d81eb3ea1c94b01903e7e829be1efea01d503832016e)
